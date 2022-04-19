@@ -121,6 +121,7 @@ const Navbar = () => {
               href="pfansi76@gmail.com"
               target="_blank"
             >
+              Email: pfansi76@gmail.com
               <HiOutlineMail size={30} />
             </a>
           </li>
