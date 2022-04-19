@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio-app/static/css/main.b6e8090b.css",
-    "main.js": "/react-portfolio-app/static/js/main.40c85755.js",
+    "main.js": "/react-portfolio-app/static/js/main.19c13910.js",
     "static/media/media_streamer.jpg": "/react-portfolio-app/static/media/media_streamer.8637c8fd6864e0968e44.jpg",
     "static/media/code_refactoring.jpg": "/react-portfolio-app/static/media/code_refactoring.4288a4821c483bf35318.jpg",
     "static/media/CV_Paulin_Fansi.pdf": "/react-portfolio-app/static/media/CV_Paulin_Fansi.6dbc0eb930ad6f0a3016.pdf",
@@ -20,10 +20,10 @@
     "static/media/javascript.png": "/react-portfolio-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio-app/index.html",
     "main.b6e8090b.css.map": "/react-portfolio-app/static/css/main.b6e8090b.css.map",
-    "main.40c85755.js.map": "/react-portfolio-app/static/js/main.40c85755.js.map"
+    "main.19c13910.js.map": "/react-portfolio-app/static/js/main.19c13910.js.map"
   },
   "entrypoints": [
     "static/css/main.b6e8090b.css",
-    "static/js/main.40c85755.js"
+    "static/js/main.19c13910.js"
   ]
 }
