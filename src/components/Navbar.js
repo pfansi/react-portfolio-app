@@ -98,7 +98,8 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0077b5]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://www.linkedin.com/in/paulin-fansi-2956a7ba/"
+              target="_blank"
             >
               Linkedin
               <FaLinkedin size={30} />
@@ -107,7 +108,8 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://github.com/pfansi"
+              target="_blank"
             >
               Github
               <FaGithub size={30} />
@@ -116,16 +118,17 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#53bb6f]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="pfansi76@gmail.com"
+              target="_blank"
             >
-              Email
               <HiOutlineMail size={30} />
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#b39439]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="../assets/CV_Paulin_Fansi.pdf"
+              target="_blank"
             >
               Resume
               <BsFillPersonLinesFill size={30} />
