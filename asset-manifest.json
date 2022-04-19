@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-app/static/css/main.a63b1199.css",
+    "main.js": "/react-portfolio-app/static/js/main.ab1d6665.js",
+    "static/media/media_streamer.jpg": "/react-portfolio-app/static/media/media_streamer.8637c8fd6864e0968e44.jpg",
+    "static/media/code_refactoring.jpg": "/react-portfolio-app/static/media/code_refactoring.4288a4821c483bf35318.jpg",
+    "static/media/CV_Paulin_Fansi.pdf": "/react-portfolio-app/static/media/CV_Paulin_Fansi.6dbc0eb930ad6f0a3016.pdf",
+    "static/media/task-manager-app.jpg": "/react-portfolio-app/static/media/task-manager-app.43f7268c50361a5d3765.jpg",
+    "static/media/react.png": "/react-portfolio-app/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/weather-display.jpg": "/react-portfolio-app/static/media/weather-display.80c5aef2494d1cd17799.jpg",
+    "static/media/node.png": "/react-portfolio-app/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/daily_planner.jpg": "/react-portfolio-app/static/media/daily_planner.7eb0e66476941dd3abf5.jpg",
+    "static/media/mongo.png": "/react-portfolio-app/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/quiz_challenge.jpg": "/react-portfolio-app/static/media/quiz_challenge.7490a9360dfc9ca91f83.jpg",
+    "static/media/github.png": "/react-portfolio-app/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/mysql.png": "/react-portfolio-app/static/media/mysql.990150d338d809f58755.png",
+    "static/media/html.png": "/react-portfolio-app/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/react-portfolio-app/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/logo-2.png": "/react-portfolio-app/static/media/logo-2.3fed698f5c5b01683701.png",
+    "static/media/javascript.png": "/react-portfolio-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-portfolio-app/index.html",
+    "main.a63b1199.css.map": "/react-portfolio-app/static/css/main.a63b1199.css.map",
+    "main.ab1d6665.js.map": "/react-portfolio-app/static/js/main.ab1d6665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a63b1199.css",
+    "static/js/main.ab1d6665.js"
+  ]
+}
