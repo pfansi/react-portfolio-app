@@ -8,11 +8,7 @@
 - [Github-Pages-deployment](#application-deployment)
 - [Description](#description)
 - [Technologies-Used](Technologies-Used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Tests](#tests)
 - [License](#license)
-- [Contributing](#contributing)
 - [Questions](#questions)
 
 ## Git Repository
@@ -27,6 +23,33 @@ The React portfolio has been deployed to Github pages. Please click on the follo
 
 Being a web developer means being part of a community. I will be building a portfolio website with React.js that will share my portfolio of works or projects. This platform is aiming to showcase myself while applying for jobs or looking for freelancing work. The shared projects on the platform will also be open for contributions and collaboration with other developers.
 Using my react skill in building this portfolio website will help to set apart other developers whose portfolios don’t use the latest technologies.
+The application will be styled using the framework Tailwing Css for React application.
+`md npm install -D tailwindcss postcss autoprefixer `
 The application will be deployed to GitHub Pages.
 
-npm install -D tailwindcss postcss autoprefixer
+## Technologies Used
+
+- Node.js
+- React
+- Javascript
+- Css
+- HTML
+- Tailwind Css
+- Webpack
+
+## Screenshot of the Homepage or landing page
+
+- ![Mobile Version](./src/assets/images/mobile_version.PNG)
+- ![Desktop Version](./src/assets/images/desktop_version.PNG)
+
+## License:
+
+[License: MIT](https://opensource.org/licenses/MIT)
+
+# This Project is licensed under the MIT license
+
+## Questions:
+
+- **Contact details:**
+  - Github: [@pfansi](https://github.com/pfansi)
+  - Email: pfansi76@gmail.com
