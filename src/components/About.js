@@ -5,10 +5,8 @@ import CSS from "../assets/css.png";
 import JavaScript from "../assets/javascript.png";
 import ReactImg from "../assets/react.png";
 import Node from "../assets/node.png";
-import FireBase from "../assets/firebase.png";
-import AWS from "../assets/aws.png";
 import GitHub from "../assets/github.png";
-import Tailwind from "../assets/tailwind.png";
+import Mysql from "../assets/mysql.png";
 import Mongo from "../assets/mongo.png";
 
 const About = () => {
@@ -36,8 +34,8 @@ const About = () => {
               I am passionate about building excellent software that improves
               the lives of those around me. I specialize in creating software
               for clients ranging from individuals and small-businesses all the
-              way to larg enterprise crporations. What would you do if you had a
-              software expert available at your fingertips?
+              way to larg enterprise corporations. What would you do if you had
+              a software expert available at your fingertips?
             </p>
           </div>
         </div>
@@ -80,8 +78,8 @@ const About = () => {
               <p className="my-4">MONGO DB</p>
             </div>
             <div className="shadow-md shadow-[#fff] hover:scale-110 duration-500">
-              <img className="w-20 mx-auto" src={AWS} alt="HTML icon" />
-              <p className="my-4">AWS</p>
+              <img className="w-20 mx-auto" src={Mysql} alt="HTML icon" />
+              <p className="my-4">MYSQL</p>
             </div>
           </div>
         </div>
