@@ -116,19 +116,18 @@ const Navbar = () => {
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#53bb6f]">
-            <a
-              className="flex justify-between items-center w-full text-gray-300"
-              href="pfansi76@gmail.com"
-              target="_blank"
+            <Link
+              className=" flex justify-between items-center ml-2"
+              to="/contact"
             >
-              Email: pfansi76@gmail.com
+              Email
               <HiOutlineMail size={30} />
-            </a>
+            </Link>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#b39439]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="../assets/CV_Paulin_Fansi.pdf"
+              href={Resume}
               target="_blank"
             >
               Resume
