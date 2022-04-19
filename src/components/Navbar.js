@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import Resume from "../assets/CV_Paulin_Fansi.pdf";
 import {
   FaBars,
@@ -16,7 +16,7 @@ const Navbar = () => {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
   return (
-    <div className="fixed w-full h-[100px] flex justify-between items-center px-4 bg-[#8ebeda] text-gray-300">
+    <div className="fixed w-full h-[100px] flex justify-between items-center px-4 bg-[#08192f] text-gray-300">
       <div>
         <img src={Logo} alt="Logo Image" style={{ width: "100px" }} />
       </div>
