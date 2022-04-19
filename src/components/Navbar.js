@@ -12,13 +12,14 @@ import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import Logo from "../assets/logo-2.png";
 
+// 42474b 6f6d70 8ebeda
 const Navbar = () => {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
   return (
-    <div className="fixed w-full h-[100px] flex justify-between items-center px-4 bg-[#08192f] text-gray-300">
+    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#6f6d70] text-white">
       <div>
-        <img src={Logo} alt="Logo Image" style={{ width: "100px" }} />
+        <img src={Logo} alt="Logo Image" style={{ width: "80px" }} />
       </div>
 
       {/* menu */}
@@ -60,20 +61,41 @@ const Navbar = () => {
         className={
           !nav
             ? "hidden"
-            : "absolute top-0 left-0 w-full h-screen bg-[#08192f] flex flex-col justify-center items-center"
+            : "absolute top-0 right-0 w-30% h-screen bg-[#6f6d70] flex flex-col justify-center items-center"
         }
       >
-        <li className="py-6 text-4xl">Home</li>
-        <li className="py-6 text-4xl">About</li>
-        <li className="py-6 text-4xl">Work</li>
-        <li className="py-6 text-4xl">Contact</li>
-        <li className="py-6 text-4xl">Resume</li>
+        <li className="py-6 text-4xl">
+          <Link className="" to="/">
+            Home
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          <Link className="" to="/about">
+            About
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          <Link className="" to="/work">
+            Work
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          <Link className="" to="/contact">
+            Contact
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
+          {" "}
+          <a href={Resume} target="_blank">
+            Resume
+          </a>
+        </li>
       </ul>
 
       {/* Social icons */}
       <div className=" hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0077b5]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="/"
@@ -82,7 +104,7 @@ const Navbar = () => {
               <FaLinkedin size={30} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="/"
@@ -91,7 +113,7 @@ const Navbar = () => {
               <FaGithub size={30} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#53bb6f]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="/"
@@ -100,7 +122,7 @@ const Navbar = () => {
               <HiOutlineMail size={30} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#b39439]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="/"
