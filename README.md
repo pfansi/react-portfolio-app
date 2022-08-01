@@ -17,7 +17,7 @@ I created a git repository folder that will host the finished project. The Repos
 
 ## Application Deployment
 
-The React portfolio has been deployed to Github pages. Please click on the following link to view the application. [click here]( https://pfansi.github.io/react-portfolio-app/).
+The React portfolio has been deployed to Github pages. Please click on the following link to view the application. [click here](https://pfansi.github.io/react-portfolio-app/).
 
 ## Description:
 
