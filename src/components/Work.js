@@ -29,7 +29,7 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold tracking-wider">
+              <span className="text-2xl text-red-900 font-bold tracking-wider">
                 Media Streaming App
               </span>
               <div className="pt-8 text-center">
@@ -59,7 +59,7 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-gray-900 tracking-wider">
+              <span className="text-2xl font-bold text-red-900 tracking-wider">
                 Task Management App
               </span>
               <div className="pt-8 text-center">
@@ -84,7 +84,7 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold tracking-wider">
+              <span className="text-2xl  text-red-900 font-bold tracking-wider">
                 Weather Display App
               </span>
               <div className="pt-8 text-center">
@@ -115,7 +115,7 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold tracking-wider">
+              <span className="text-2xl text-red-900 font-bold tracking-wider">
                 Quiz Challenge App
               </span>
               <div className="pt-8 text-center">
@@ -146,7 +146,7 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold tracking-wider">
+              <span className="text-2xl text-red-900 font-bold tracking-wider">
                 Daily Planner App
               </span>
               <div className="pt-8 text-center">
@@ -177,12 +177,12 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold tracking-wider">
-                Code Refactoring
+              <span className="text-2xl text-red-900 font-bold tracking-wider">
+                Track My Move
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://pfansi.github.io/Code-Refactor-HW/"
+                  href="https://track-my-move-backup.herokuapp.com/login"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white  font-bold text-lg">
@@ -190,7 +190,7 @@ const Work = () => {
                   </button>
                 </a>
                 <a
-                  href="https://github.com/pfansi/Code-Refactor-HW"
+                  href="https://github.com/Allan-Ngwenya/track-my-move"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white font-bold text-lg">
