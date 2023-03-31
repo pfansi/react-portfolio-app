@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import Resume from "../assets/CV_Paulin_Fansi.pdf";
+import Resume from "../assets/CV";
 import {
   FaBars,
   FaTimes,
@@ -98,7 +98,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0077b5]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://www.linkedin.com/in/paulin-fansi-2956a7ba/"
+              href="###"
               target="_blank"
             >
               Linkedin
