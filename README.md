@@ -52,4 +52,4 @@ The application will be deployed to GitHub Pages.
 
 - **Contact details:**
   - Github: [@pfansi](https://github.com/pfansi)
-  - Email: pfansi76@gmail.com
+  - Email: 
