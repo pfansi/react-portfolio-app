@@ -26,7 +26,7 @@ const About = () => {
           <div></div>
           <div className="text-4xl font-bold pl-4">
             <p>
-              Hi, I am Paulin , nice to meet you . Please take a look around
+              Hi, I am P , nice to meet you . Please take a look around
             </p>
           </div>
           <div className="px-4">
